@@ -2,7 +2,9 @@
 
 HTML And CSS Design Two
 
-Kasper — Pure HTML & CSS Website visit now https://floky32.github.io/HTML_And_CSS_Template_Two/
+Kasper — Pure HTML & CSS Website visit now 
+
+https://floky32.github.io/HTML_And_CSS_Template_Two/
 
 🚀 A fast, responsive, and accessible website built with pure HTML & CSS.
 
@@ -17,12 +19,21 @@ Kasper — Pure HTML & CSS Website visit now https://floky32.github.io/HTML_And_
 
 🧰 Stack
 -HTML5
+
 -CSS3 (flexbox/grid, custom properties)
 
 🧭 Navigation
--Home 🏠
--About 👋
--Projects 🗂️
--Contact ✉️
+
+🏠 Home
+
+🛎️ Services
+
+🗂️ Portfolio
+
+👥 About
+
+💲 Pricing
+
+✉️ Contact
 
 
