@@ -25,16 +25,16 @@ https://floky32.github.io/HTML_And_CSS_Template_Two/
 
 🧭 Navigation
 
-🏠 Home
+-Home🏠 
 
-🛎️ Services
+-Services🛎️ 
 
-🗂️ Portfolio
+-Portfolio🗂️
 
-👥 About
+-About👥
 
-💲 Pricing
+-Pricing💲
 
-✉️ Contact
+-Contact✉️
 
 
