@@ -8,8 +8,11 @@ Kasper — Pure HTML & CSS Website visit now https://floky32.github.io/HTML_And_
 
 🌈 Features
 -Responsive design: looks great on phones, tablets, and desktops 📱💻
+
 -Accessible: semantic HTML, high contrast, and keyboard navigation ♿️🔤
+
 -Modern visuals: soft shadows, vibrant colors, and clean typography 🎨
+
 -Performance: lightweight markup, minimal dependencies ⚡
 
 🧰 Stack
