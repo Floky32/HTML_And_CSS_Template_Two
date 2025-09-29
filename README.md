@@ -22,10 +22,4 @@ About 👋
 Projects 🗂️
 Contact ✉️
 
-📦 Project structure
-index.html
-styles.css
-assets/
-images/ (if applicable)
-icons/ (if applicable)
-README.md
+
